@@ -1,6 +1,6 @@
-# Budget OSED Study Materials (WIP)
+# Budget OSED (WIP)
 
-Compilation of OSED-related write-ups
+Compilation of OSED-related write-ups which pretty much covers the OSED syllabus found [here](https://www.offsec.com/courses/exp-301/download/syllabus) as OffSec courses are getting more and more expensive. Hopefully this gives you the necessary knowledge and skills to prepare for your windows security research job interviews/internships :)
 
 # 1. WinDbg and x86 Architecture
 
