@@ -18,7 +18,7 @@ Compilation of OSED-related write-ups which pretty much covers the OSED syllabus
 
 ### Tldr:
 
-Stack overflows occur when a copy function is executed unsafely on a buffer.
+Stack overflows occur when a copy function is executed unsafely on a buffer. Since buffers are stored on the stack, if enough of the stack is overflowed by the buffer, we can overwrite return addresses within stack frames, which may allow us to gain code execution depending on the nature of how we write the return addresses.
 
 ### Tips:
 
